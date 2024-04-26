@@ -61,7 +61,7 @@ const Page = () => {
         .bg-gradient-multicolor {
           background: linear-gradient(
            45deg,
-           #ff8e9e 0%,  /* Light pink */
+           #ff8e9e 0%,  
            #ffc3d1 10%,  /* Lighter pink */
            #e0f2f1 20%,  /* Pale blue */
            #b2f5ea 30%,  /* Light turquoise */
